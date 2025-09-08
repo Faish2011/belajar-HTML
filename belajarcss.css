@@ -1,0 +1,135 @@
+/* p {
+    color:blue;
+    font-size: 20px;
+}
+#heading {
+    color:rgb(237, 243, 237);
+}
+.text-red{
+    color:red;
+} */
+
+
+/* article > p {
+    color:blue;
+}
+
+h3 + p {
+    color:blue;
+} */
+
+p ~ section {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 3px;
+}
+
+a[href = "https://google.com"]{
+    text-decoration: red;
+    background-color: lightgreen;
+}
+
+p{
+    text-align: center;
+}
+
+p{
+    direction: rtl;
+}
+
+/* p{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+} */
+
+/* h1{
+    text-decoration: overline;
+}
+
+h1{
+    text-decoration: underline dashed green;
+} */
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: green;
+    text-decoration-thickness: 3px;
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+h1{
+    letter-spacing: 5px;
+}
+
+p{
+    line-height: 100px;
+}
+
+p{
+    word-spacing: 0px;
+}
+
+h1{
+    text-shadow: 2px 2px 5px rgb(110, 69, 213);
+}
+
+p {
+    font-family: OCR A Std, monospace;
+}
+
+p {
+  font-family: "Federant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1{
+  font-family: "Mozilla Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+}
+
+p.font-50{
+    font-size: 100px;
+}
+/* article p {
+    color:blue;
+} */
+
+p.bold{
+    font-weight: bold;
+}
+
+h2{
+    /* color: rgb(10,100,125);  */
+    /* color: rgba(0, 182, 52, 0.4); */
+    /* color: #b91abf; */
+    color: hsla(170, 40%, 63%, 1)
+}
+p.background-color{
+    font-size: 80px;
+    /* background-color: aquamarine; */
+}
+p.background-image{
+    font-size: 80px;
+    background-image: url('gambar/US Abrams Main Battle Tank evolution.jpg');
+    color:rgb(211, 211, 222);
+}
+
+article{
+    padding: 5px;
+    color: black;
+    /* background-image: url('assets/image/muzqaymoq.jpeg'); background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right top; */
+    background: #fffccc url("assets/image/muzqaymoq.jpeg") no-repeat right top scroll;
+}
+/* Germanic, Celtic, Austronesian, Slavic, Tibeto-Burman, Semitic, Afro-Asiatic, Bantu, Altaic, Dravidian, Indo-Aryan, Iranian, Romance, Turkic, Indo-European, Sino-Tibetan, Tai-Kadai, Krai-Dai, Austro-Asiatic, Afro-Asiatic, Mon-Khmer */

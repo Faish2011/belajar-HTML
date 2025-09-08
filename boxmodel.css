@@ -1,0 +1,30 @@
+p{
+    /* border-width: 3px;
+    border-style: solid;
+    border-color:black; */
+    border: 3px solid black;
+    border-radius: 3px;
+    padding: 12px;
+}
+
+article{
+    border: 5px double green;
+    border-radius: 10px;
+    /* padding: 20px 10px 15px 25px; */
+    padding-top: 19px;
+    padding-bottom: 6px;
+    padding-right: 7px;
+    padding-left: 8px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-right: 8px;
+    margin-left: 9px;
+}
+
+
+
+
+
+
+
+
