@@ -1,7 +1,25 @@
 article#css {
-    width: 70%;
+    width: 50%;
     min-width: 34%;
     max-width: 80%;
+    min-height: 250px;
+    height: 500px;
+    max-height: 400px;
+}
+
+article{
+    border: 1px solid red;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+article#Main-Battle-Tank{
+    width: 300px;
+    min-width: 200px;
+    max-width: 400px;
+    height: 222px;
+    min-height: 111px;
+    max-height: 333px;
 }
 
 
@@ -13,8 +31,7 @@ article#css {
 
 
 
-
-
+ 
 
 
 
