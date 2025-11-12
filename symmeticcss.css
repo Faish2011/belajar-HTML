@@ -1,0 +1,81 @@
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+header{
+    background-color: #AA77FF;
+    padding: 10px;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: white;
+    text-decoration: none;
+}
+
+#content{
+    background-color: #C9EEFF;
+    padding: 10px;
+}
+
+.article-title{
+    color: #AA77FF
+}
+
+footer{
+    background-color: #62CDFF;
+    padding: 10px;
+}
+
+#author{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
